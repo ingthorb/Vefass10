@@ -1,0 +1,3 @@
+Need to download elasticsearch to punchapi folder, unzip, enter and run bin/elasticsearch.bat to run.
+
+Then install all the dependencies that are in the package.json
